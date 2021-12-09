@@ -8,10 +8,11 @@ I'm from Hamburg, Germany and I am a self taught Frontend Web Developer. While I
 ## Skills
 
 * HTML | CSS | JavaScript
-* React
+* React.js | Next.js
 * Python
 * Databases (SQL | MongoDB)
 * REST APIs
+* Contentful
 
 ## Projects
 
