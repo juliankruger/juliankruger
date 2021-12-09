@@ -3,8 +3,8 @@
 
 # Hi there, I'm Julian!
 
-
 I'm from Hamburg, Germany and I am a self taught Frontend Web Developer. While I enjoy creating websites with just HTML and Pure CSS, I fell in love with React.js and JavaScript. I started out with Python and do know the basics of Backend development as well.
+
 ## Skills
 
 * HTML | CSS | JavaScript
