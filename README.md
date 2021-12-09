@@ -22,6 +22,6 @@ Make sure to check out my portfolio for more info and some of my projects in act
 
 **[Forty Years Of (Hamburg) Weather](https://fortyyearsofweather.netlify.app/)**
 
-**[Ready, Set, Type! - React Typing Speed Test](https://readysettype.netlify.app/)**
+**[Ready, Set, Type! – React Typing Speed Test](https://readysettype.netlify.app/)**
 
 **[Tic Tac Toe React App](https://click-tac-toe.netlify.app/)**
