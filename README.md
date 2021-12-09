@@ -16,9 +16,9 @@ I'm from Hamburg, Germany and I am a self taught Frontend Web Developer. While I
 
 ## Projects
 
-Make sure to check out my portfolio website for more info and some of my projects in action.
+Make sure to check out my portfolio for more info and some of my projects in action.
 
-**[Portfolio](https://www.iamjulian.de/)**
+**[Portfolio Website](https://www.iamjulian.de/)**
 
 **[Forty Years Of (Hamburg) Weather](https://fortyyearsofweather.netlify.app/)**
 
