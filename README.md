@@ -11,7 +11,7 @@ I'm from Hamburg, Germany and I am a self taught Frontend Web Developer. While I
 * React
 * Python
 * Databases (SQL | MongoDB)
-* APIs
+* REST APIs
 
 ## Projects
 
