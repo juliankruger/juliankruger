@@ -9,7 +9,8 @@ I'm from Hamburg, Germany and I am a self taught Frontend Web Developer. While I
 
 * HTML | CSS | JavaScript
 * React.js | Next.js
-* Python
+* Node.js | Express
+* Python | Flask
 * Databases (SQL | MongoDB)
 * REST APIs
 * Contentful
