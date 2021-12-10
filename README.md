@@ -14,8 +14,8 @@ I'm from Hamburg, Germany and I am a self taught Frontend Web Developer. While I
 
 * Node.js | Express
 * Python | Flask
-* Databases (SQL | MongoDB)
 * REST APIs
+* Databases (SQL | MongoDB)
 * Contentful
 
 ## Projects
